@@ -1,0 +1,40 @@
+ 5749  ls
+ 5750  mkdir W3D2
+ 5751  clear
+ 5752  ls
+ 5753  cd W3D2
+ 5754  clreat
+ 5755  clear
+ 5756  git status
+ 5757  git init
+ 5758  ls -a
+ 5759  mv ~/Downloads/practice-for-ch-ruby-memory-long-practice-main .
+ 5760  clear
+ 5761  ls
+ 5762  git status
+ 5763  git add -A
+ 5764  git status
+ 5765  git commit -m "first commit"
+ 5766  git status
+ 5767  git remote add origin git@github.com:kaefakanneh/W3D2.git\n
+ 5768  #previous cmd: tied local to remote
+ 5769  git remote
+ 5770  git push -u origin main
+ 5771  git remote rm origin
+ 5772  git remote
+ 5773  git remote add origin https://github.com/kaefakanneh/W3D2.git
+ 5774  git rewmote
+ 5775  git remote
+ 5776  git push -u origin mIN
+ 5777  git push -u origin main
+ 5778* ls
+ 5779* ls -a
+ 5780* code ~/.zshrc
+ 5781  source ~/.zshrc
+ 5782  gt
+ 5783  git push -u origin main
+ 5784  code .
+ 5785  cleaer
+ 5786  clear
+ 5787  ls
+ 5788  cd ~
