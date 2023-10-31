@@ -1,7 +1,11 @@
 class Board
   def initialize
-    @grid = Array.new(4) { Array.new(4) }
+    @grid = Array.new(4) { Array.new(4,'_') }
 
+  end
+
+  def value
+    cards []
   end
 
   # def [](pos)
